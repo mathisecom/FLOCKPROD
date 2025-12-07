@@ -18,6 +18,37 @@
     },
     "contact": {
       "type": "contact",
+      "blocks": {
+        "text_6Thwxx": {
+          "type": "text",
+          "settings": {
+            "title": "Références Textiles, Tailles et Couleurs",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_b4LEr8": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Postion Marquage",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "dropdown_RqqNU7": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Postion Marquage",
+            "values": "Cœur + Dos, Cœur, Dos"
+          }
+        }
+      },
+      "block_order": [
+        "text_6Thwxx",
+        "text_b4LEr8",
+        "dropdown_RqqNU7"
+      ],
       "settings": {
         "full_width": true,
         "subheading": "RÉPONSE RAPIDE EN MOINS DE 24H",
