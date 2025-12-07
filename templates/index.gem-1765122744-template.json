@@ -1,0 +1,663 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ss_circlemenu_KHFxNp": {
+      "type": "ss-circlemenu",
+      "blocks": {
+        "image_Kp6CjM": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "T-Shirts",
+            "bubble_link": "shopify:\/\/collections\/t-shirts"
+          }
+        },
+        "image_CB8dkg": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Sweats",
+            "bubble_link": "shopify:\/\/collections\/sweats"
+          }
+        },
+        "image_nWPtP9": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Polo",
+            "bubble_link": "shopify:\/\/collections\/polo"
+          }
+        },
+        "image_YWPHek": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Manteaux",
+            "bubble_link": ""
+          }
+        },
+        "image_pyMyrY": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Tablier",
+            "bubble_link": ""
+          }
+        },
+        "image_Y3bRdY": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Chemise",
+            "bubble_link": ""
+          }
+        },
+        "image_cacHJH": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Doudoune",
+            "bubble_link": ""
+          }
+        },
+        "image_qVLAth": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "SoftShell",
+            "bubble_link": ""
+          }
+        },
+        "image_XTqrqP": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Travail",
+            "bubble_link": ""
+          }
+        },
+        "image_TJTzGa": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Sport",
+            "bubble_link": ""
+          }
+        },
+        "image_BdbpWk": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Bagagerie",
+            "bubble_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Kp6CjM",
+        "image_CB8dkg",
+        "image_nWPtP9",
+        "image_YWPHek",
+        "image_pyMyrY",
+        "image_Y3bRdY",
+        "image_cacHJH",
+        "image_qVLAth",
+        "image_XTqrqP",
+        "image_TJTzGa",
+        "image_BdbpWk"
+      ],
+      "name": "SS - Circle Menu",
+      "settings": {
+        "slider_width": 100,
+        "slider_gap": 50,
+        "slider_gap_mobile": 18,
+        "icon_size": 100,
+        "icon_size_mobile": 100,
+        "icon_space": 4,
+        "icon_space_mobile": 4,
+        "icon_border_thickness": 1,
+        "icon_square": false,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 110,
+        "text_mt": 12,
+        "icon_border_color": "#000000",
+        "icon_border_gradient": "",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "border_gradient": "",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 4,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 150,
+        "border_thickness": 0,
+        "lazy": true,
+        "hide_mobile": false,
+        "hide_desktop": false
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "ss_scrolling_logo_cloud_5_PkDnVj": {
+      "type": "ss-scrolling-logo-cloud-5",
+      "blocks": {
+        "image_z8FYk6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_18.png",
+            "url": ""
+          }
+        },
+        "image_geNF9L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_20.png",
+            "url": ""
+          }
+        },
+        "image_ga6ygn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_19.png",
+            "url": ""
+          }
+        },
+        "image_9rrbie": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_21.png",
+            "url": ""
+          }
+        },
+        "image_h8FETR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_22.png",
+            "url": ""
+          }
+        },
+        "image_yqRm6V": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_23.png",
+            "url": ""
+          }
+        },
+        "image_8aCyYD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_24.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_z8FYk6",
+        "image_geNF9L",
+        "image_ga6ygn",
+        "image_9rrbie",
+        "image_h8FETR",
+        "image_yqRm6V",
+        "image_8aCyYD"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "<h4>+500,000 RÉFÉRENCES<\/h4>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 11,
+        "heading_size_mobile": 8,
+        "heading_height": 130,
+        "scrolling_velocity": 22,
+        "scrolling_velocity_mobile": 22,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 40,
+        "scrolling_gap_mobile": 14,
+        "card_width_desktop": 140,
+        "card_width_mobile": 120,
+        "heading_color": "#121212",
+        "layout_bg_color": "#ffffff",
+        "layout_border_color": "#121212",
+        "background_color": "#ffffff",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "featured_collection_r4PQiT": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "frontpage",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Meilleures Ventes",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "multi_column_CeMNcp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_aM8q4g": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Impression Textiles",
+            "heading_tag": "h5",
+            "content": "<p>Des impressions durables et nettes sur tous types de textiles pour valoriser votre marque.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QWkAEK": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Marquage Adhésif",
+            "heading_tag": "h5",
+            "content": "<p>Des adhésifs personnalisés, résistants et précis pour habiller vitrines, véhicules et supports divers.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kcdR7x": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Publicité Imprimé",
+            "heading_tag": "h5",
+            "content": "<p>Flyers, affiches, cartes… Des supports imprimés de haute qualité pour booster votre communication.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AdnTbe": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Signalétique",
+            "heading_tag": "h5",
+            "content": "<p>Panneaux, enseignes et signalétique intérieure\/extérieure pour guider, informer et attirer efficacement.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_aM8q4g",
+        "item_QWkAEK",
+        "item_kcdR7x",
+        "item_AdnTbe"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "BOOSTEZ VOTRE VISIBILITÉ",
+        "title": "NOS SERVICES",
+        "content": "",
+        "background": "#fafafa",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "scrolling_text_cgkzi6": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "NOTRE SAVOIR-FAIRE À VOTRE SERVICE",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "text_with_icons_QbDf6h": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_PBEq7X": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/france1.svg",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Atelier Français",
+            "content": "<p>Marquage réalisé en interne pour une qualité, une précision et une réactivité optimales.<\/p>"
+          }
+        },
+        "item_xKfyqh": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/supports.svg",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Tous Supports Possibles",
+            "content": "<p>Textile, goodies, papeterie, signalétique : on personnalise presque tout, même sur mesure.<\/p>"
+          }
+        },
+        "item_nhFCNg": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/pro.svg",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Tarifs Professionnels",
+            "content": "<p>Des prix adaptés aux pros, avec remises selon quantités et besoins.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_PBEq7X",
+        "item_xKfyqh",
+        "item_nhFCNg"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_rU3UjL": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_zEwpkX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CREA_1080X1080_46.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "DEMANDE DE DEVIS RAPIDE",
+            "title": "CONFIEZ-NOUS VOTRE PROJET !",
+            "content": "",
+            "link_text": "DEMANDE DE DEVIS",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zEwpkX"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "rich_text_CABNek": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rFdTDX": {
+          "type": "heading",
+          "settings": {
+            "text": "NOS RÉALISATIONS",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rFdTDX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "ss_scrolling_logo_cloud_5_Dr3zYQ": {
+      "type": "ss-scrolling-logo-cloud-5",
+      "blocks": {
+        "image_RN7kCW": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_9epiWQ": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_6tRGV6": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_MBqwFM": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_RN7kCW",
+        "image_9epiWQ",
+        "image_6tRGV6",
+        "image_MBqwFM"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 0,
+        "heading_height": 130,
+        "scrolling_velocity": 30,
+        "scrolling_velocity_mobile": 20,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 30,
+        "card_width_desktop": 190,
+        "card_width_mobile": 180,
+        "heading_color": "#121212",
+        "layout_bg_color": "#ffffff",
+        "layout_border_color": "#121212",
+        "background_color": "#ffffff",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 12,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "ss_circlemenu_KHFxNp",
+    "slideshow",
+    "ss_scrolling_logo_cloud_5_PkDnVj",
+    "featured_collection_r4PQiT",
+    "multi_column_CeMNcp",
+    "scrolling_text_cgkzi6",
+    "text_with_icons_QbDf6h",
+    "media_with_text_rU3UjL",
+    "rich_text_CABNek",
+    "ss_scrolling_logo_cloud_5_Dr3zYQ",
+    "faq"
+  ]
+}
