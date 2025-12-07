@@ -143,40 +143,63 @@
         "product_card_text_color": ""
       }
     },
-    "media_with_text_wbnYgP": {
-      "type": "media-with-text",
+    "multi_column_CeMNcp": {
+      "type": "multi-column",
       "blocks": {
-        "image_kGntYq": {
-          "type": "image",
+        "item_aM8q4g": {
+          "type": "item",
           "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "Demande De Devis",
+            "column_size": "3",
+            "title": "Impression Textiles",
+            "heading_tag": "h5",
+            "content": "",
             "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QWkAEK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Marquage Adhésif",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kcdR7x": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "image_kGntYq"
+        "item_aM8q4g",
+        "item_QWkAEK",
+        "item_kcdR7x"
       ],
-      "disabled": true,
-      "name": "Media with text",
+      "name": "Multi-column",
       "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "none"
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "NOS SERVICES",
+        "content": "",
+        "background": "#fafafa",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media_with_text_rU3UjL": {
@@ -272,7 +295,7 @@
     "ss_circlemenu_KHFxNp",
     "slideshow",
     "featured_collection_r4PQiT",
-    "media_with_text_wbnYgP",
+    "multi_column_CeMNcp",
     "media_with_text_rU3UjL",
     "faq"
   ]
