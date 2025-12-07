@@ -107,6 +107,175 @@
         "input_text_color": ""
       }
     },
+    "text_with_icons_eBWMBg": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_WnW9QU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/france1.svg",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Atelier Français",
+            "content": "<p>Marquage réalisé en interne pour une qualité, une précision et une réactivité optimales.</p>"
+          }
+        },
+        "item_JRX6GX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/supports.svg",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Tous Supports Possibles",
+            "content": "<p>Textile, goodies, papeterie, signalétique : on personnalise presque tout, même sur mesure.</p>"
+          }
+        },
+        "item_bANT9w": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/pro.svg",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Tarifs Professionnels",
+            "content": "<p>Des prix adaptés aux pros, avec remises selon quantités et besoins.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_WnW9QU",
+        "item_JRX6GX",
+        "item_bANT9w"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_9Mz6iG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ebt3YY": {
+          "type": "subheading",
+          "settings": {
+            "text": "+250 PROJETS RÉALISÉS"
+          }
+        },
+        "heading_DiGaAg": {
+          "type": "heading",
+          "settings": {
+            "text": "NOS RÉALISATIONS",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ebt3YY",
+        "heading_DiGaAg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "ss_scrolling_logo_cloud_5_VQmnYL": {
+      "type": "ss-scrolling-logo-cloud-5",
+      "blocks": {
+        "image_CPddyX": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_UkPMXz": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_iwetx7": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_xJPpmV": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CPddyX",
+        "image_UkPMXz",
+        "image_iwetx7",
+        "image_xJPpmV"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 12,
+        "heading_size_mobile": 10,
+        "heading_height": 130,
+        "scrolling_velocity": 30,
+        "scrolling_velocity_mobile": 30,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 30,
+        "card_width_desktop": 160,
+        "card_width_mobile": 170,
+        "heading_color": "#121212",
+        "layout_bg_color": "#FFFFFF",
+        "layout_border_color": "#121212",
+        "background_color": "#FFFFFF",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -133,6 +302,9 @@
   },
   "order": [
     "main",
+    "text_with_icons_eBWMBg",
+    "rich_text_9Mz6iG",
+    "ss_scrolling_logo_cloud_5_VQmnYL",
     "related-products"
   ]
 }
