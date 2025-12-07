@@ -197,10 +197,10 @@
         "item_aM8q4g": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
             "title": "Impression Textiles",
             "heading_tag": "h5",
-            "content": "",
+            "content": "<p>Des impressions durables et nettes sur tous types de textiles pour valoriser votre marque.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -209,10 +209,10 @@
         "item_QWkAEK": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
             "title": "Marquage Adhésif",
             "heading_tag": "h5",
-            "content": "",
+            "content": "<p>Des adhésifs personnalisés, résistants et précis pour habiller vitrines, véhicules et supports divers.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -221,10 +221,22 @@
         "item_kcdR7x": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "",
+            "column_size": "4",
+            "title": "Publicité Imprimé",
             "heading_tag": "h5",
-            "content": "",
+            "content": "<p>Flyers, affiches, cartes… Des supports imprimés de haute qualité pour booster votre communication.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AdnTbe": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Signalétique",
+            "heading_tag": "h5",
+            "content": "<p>Panneaux, enseignes et signalétique intérieure/extérieure pour guider, informer et attirer efficacement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -234,13 +246,14 @@
       "block_order": [
         "item_aM8q4g",
         "item_QWkAEK",
-        "item_kcdR7x"
+        "item_kcdR7x",
+        "item_AdnTbe"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "NOS SERVICES",
