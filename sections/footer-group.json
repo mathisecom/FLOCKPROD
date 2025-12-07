@@ -19,13 +19,13 @@
           "settings": {
             "icon": "picto-box",
             "custom_icon": "shopify://shop_images/certification-home.svg",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Textiles Certifiés",
+            "content": "<p>Qualité contrôlée et sélection rigoureuse.</p>"
           }
         },
         "customer-support": {
@@ -33,13 +33,13 @@
           "settings": {
             "icon": "picto-customer-support",
             "custom_icon": "shopify://shop_images/savoir-faire-francais.svg",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Savoir-faire 100% Français",
+            "content": "<p>Expertise technique et excellence locale.</p>"
           }
         },
         "discount": {
@@ -47,13 +47,13 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/conseil.svg",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Conseil Personnalisé",
+            "content": "<p>Un interlocuteur dédié pour une satisfaction assurée.</p>"
           }
         }
       },
