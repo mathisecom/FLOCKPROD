@@ -32,12 +32,60 @@
             "bubble_text": "Polo",
             "bubble_link": "shopify://collections/polo"
           }
+        },
+        "image_YWPHek": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Manteaux",
+            "bubble_link": ""
+          }
+        },
+        "image_pyMyrY": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Tablier",
+            "bubble_link": ""
+          }
+        },
+        "image_Y3bRdY": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Chemise",
+            "bubble_link": ""
+          }
+        },
+        "image_cacHJH": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Doudoune",
+            "bubble_link": ""
+          }
+        },
+        "image_qVLAth": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "SoftShell",
+            "bubble_link": ""
+          }
+        },
+        "image_XTqrqP": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Travail",
+            "bubble_link": ""
+          }
         }
       },
       "block_order": [
         "image_Kp6CjM",
         "image_CB8dkg",
-        "image_nWPtP9"
+        "image_nWPtP9",
+        "image_YWPHek",
+        "image_pyMyrY",
+        "image_Y3bRdY",
+        "image_cacHJH",
+        "image_qVLAth",
+        "image_XTqrqP"
       ],
       "name": "SS - Circle Menu",
       "settings": {
