@@ -74,6 +74,13 @@
             "bubble_text": "Travail",
             "bubble_link": ""
           }
+        },
+        "image_TJTzGa": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Sport",
+            "bubble_link": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +92,8 @@
         "image_Y3bRdY",
         "image_cacHJH",
         "image_qVLAth",
-        "image_XTqrqP"
+        "image_XTqrqP",
+        "image_TJTzGa"
       ],
       "name": "SS - Circle Menu",
       "settings": {
