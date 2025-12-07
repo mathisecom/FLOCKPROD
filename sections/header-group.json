@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "DEMANDE DE DEVIS RAPIDE",
+            "url": ""
+          }
+        },
+        "message_nYdiex": {
+          "type": "message",
+          "settings": {
+            "text": "+300 CLIENTS SATISFAITS",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_nYdiex"
       ],
       "settings": {
         "enable_sticky": false,
