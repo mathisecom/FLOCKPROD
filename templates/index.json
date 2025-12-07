@@ -9,6 +9,74 @@
  */
 {
   "sections": {
+    "ss_circlemenu_KHFxNp": {
+      "type": "ss-circlemenu",
+      "blocks": {
+        "image_Kp6CjM": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "T-Shirts",
+            "bubble_link": "shopify://collections/t-shirts"
+          }
+        },
+        "image_CB8dkg": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Sweats",
+            "bubble_link": "shopify://collections/sweats"
+          }
+        },
+        "image_nWPtP9": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Polo",
+            "bubble_link": "shopify://collections/polo"
+          }
+        }
+      },
+      "block_order": [
+        "image_Kp6CjM",
+        "image_CB8dkg",
+        "image_nWPtP9"
+      ],
+      "name": "SS - Circle Menu",
+      "settings": {
+        "slider_width": 100,
+        "slider_gap": 50,
+        "slider_gap_mobile": 18,
+        "icon_size": 100,
+        "icon_size_mobile": 100,
+        "icon_space": 4,
+        "icon_space_mobile": 4,
+        "icon_border_thickness": 1,
+        "icon_square": false,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 110,
+        "text_mt": 12,
+        "icon_border_color": "#000000",
+        "icon_border_gradient": "",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "border_gradient": "",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 4,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 150,
+        "border_thickness": 0,
+        "lazy": true,
+        "hide_mobile": false,
+        "hide_desktop": false
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -47,74 +115,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "ss_circlemenu_KHFxNp": {
-      "type": "ss-circlemenu",
-      "blocks": {
-        "image_Kp6CjM": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "T-Shirts",
-            "bubble_link": "shopify://collections/t-shirts"
-          }
-        },
-        "image_CB8dkg": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "Sweats",
-            "bubble_link": "shopify://collections/sweats"
-          }
-        },
-        "image_nWPtP9": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "Polo",
-            "bubble_link": "shopify://collections/polo"
-          }
-        }
-      },
-      "block_order": [
-        "image_Kp6CjM",
-        "image_CB8dkg",
-        "image_nWPtP9"
-      ],
-      "name": "SS - Circle Menu",
-      "settings": {
-        "slider_width": 100,
-        "slider_gap": 50,
-        "slider_gap_mobile": 18,
-        "icon_size": 140,
-        "icon_size_mobile": 100,
-        "icon_space": 0,
-        "icon_space_mobile": 0,
-        "icon_border_thickness": 1,
-        "icon_square": false,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 14,
-        "text_size_mobile": 12,
-        "text_height": 110,
-        "text_mt": 12,
-        "icon_border_color": "#000000",
-        "icon_border_gradient": "",
-        "text_color": "#000000",
-        "background_color": "#FFFFFF",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "border_gradient": "",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 4,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 150,
-        "border_thickness": 0,
-        "lazy": true,
-        "hide_mobile": false,
-        "hide_desktop": false
       }
     },
     "featured_collection_r4PQiT": {
