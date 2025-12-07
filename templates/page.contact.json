@@ -19,6 +19,14 @@
     "contact": {
       "type": "contact",
       "blocks": {
+        "text_Uy7jHz": {
+          "type": "text",
+          "settings": {
+            "title": "N° Téléphone",
+            "use_long_text": false,
+            "required": true
+          }
+        },
         "text_6Thwxx": {
           "type": "text",
           "settings": {
@@ -45,6 +53,7 @@
         }
       },
       "block_order": [
+        "text_Uy7jHz",
         "text_6Thwxx",
         "text_b4LEr8",
         "dropdown_RqqNU7"
