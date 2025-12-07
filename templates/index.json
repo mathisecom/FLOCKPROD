@@ -498,17 +498,24 @@
     "rich_text_CABNek": {
       "type": "rich-text",
       "blocks": {
+        "subheading_MbXFEH": {
+          "type": "subheading",
+          "settings": {
+            "text": "+250 PROJETS RÉALISÉS"
+          }
+        },
         "heading_rFdTDX": {
           "type": "heading",
           "settings": {
             "text": "NOS RÉALISATIONS",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
         }
       },
       "block_order": [
+        "subheading_MbXFEH",
         "heading_rFdTDX"
       ],
       "name": "Rich text",
