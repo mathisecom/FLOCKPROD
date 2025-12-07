@@ -19,8 +19,8 @@
           "settings": {
             "icon": "picto-box",
             "custom_icon": "shopify://shop_images/certification-home.svg",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
+            "mobile_icon_width": 48,
+            "icon_width": 48,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -33,8 +33,8 @@
           "settings": {
             "icon": "picto-customer-support",
             "custom_icon": "shopify://shop_images/savoir-faire-francais.svg",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
+            "mobile_icon_width": 48,
+            "icon_width": 48,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -47,13 +47,13 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/conseil.svg",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
+            "mobile_icon_width": 48,
+            "icon_width": 48,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "Conseil Personnalisé",
-            "content": "<p>Un interlocuteur dédié pour une satisfaction assurée.</p>"
+            "content": "<p>Un interlocuteur dédié, satisfaction garantie.</p>"
           }
         }
       },
