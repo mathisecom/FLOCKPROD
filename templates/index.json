@@ -81,6 +81,13 @@
             "bubble_text": "Sport",
             "bubble_link": ""
           }
+        },
+        "image_BdbpWk": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Bagagerie",
+            "bubble_link": ""
+          }
         }
       },
       "block_order": [
@@ -93,7 +100,8 @@
         "image_cacHJH",
         "image_qVLAth",
         "image_XTqrqP",
-        "image_TJTzGa"
+        "image_TJTzGa",
+        "image_BdbpWk"
       ],
       "name": "SS - Circle Menu",
       "settings": {
