@@ -384,11 +384,11 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "NOTRE SAVOIR-FAIRE À VOTRE SERVICE",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 10,
+        "scrolling_speed": 7,
         "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff",
