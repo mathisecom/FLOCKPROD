@@ -1,0 +1,57 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_550392011706860706": {
+      "settings": {
+        "checksum": "7520cf5ac4085c0cf64d9e459fee7141a233c624000fc39fa3e64fa5b2b51642_1_1_0_0__1",
+        "section_preload": "true"
+      },
+      "type": "gp-section-550392011706860706"
+    },
+    "gp_section_550392295610909858": {
+      "settings": {
+        "checksum": "1a30ad2ca96451a2f5712b92134b8010dcd402365f86465a8011d267c79fdfc0_1_1_0_0__1",
+        "gg1ogyI4nzh_text": "<p>D'expérience</p>",
+        "gg9tzgYAgdA_placeholder": "Votre adresse email préférée",
+        "ggAHoRykNdp_childItem_0": "<p><span style=\"font-size:12px;\">Donner vie à votre image</span></p>",
+        "ggAUYZnYRfh_childItem_0": "<p><span style=\"font-size:16px;\">Boostez votre visibilité</span></p>",
+        "ggCMYGJ9U84_text": "<p><span style=\"font-size:14px;\">Nous répondrons à votre demande&nbsp;</span></p><p><span style=\"font-size:14px;\">de devis en moins de 24 heures.</span></p>",
+        "ggDWBQcg7JK_childItem_0": "<p>Locaux Basé sur Salbris, 41300 France</p>",
+        "ggFXvAuhN_K_text": "<span style=\"font-size:33px;\">Devis Gratuit</span>",
+        "ggI9lP5LCdg_errorMessage": "Can’t send email. Please try again later.",
+        "ggI9lP5LCdg_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggKZkKhyOhF_text": "<p><span style=\"font-size:14px;\">Obtenez un Devis Gratuit en moins de 24h</span></p>",
+        "ggKl0rDTAtn_childItem_0": "<p><span style=\"font-size:12px;\">Boostez votre visibilité</span></p>",
+        "ggQyIqY90aS_placeholder": "Votre Demande",
+        "ggTpcLom_Ns_text": "<span style=\"font-size:35px;\">+3 Ans</span>",
+        "ggXgW8KQEDA_text": "<p><span style=\"font-size:15px;\">Exprimez votre style et votre personnalité en créant des pièces qui vous ressemblent.</span></p>",
+        "ggaUBO_e7GB_text": "<span style=\"font-size:35px;\">+180</span>",
+        "ggcn98rd0gW_text": "<p>Clients Satisfaits</p>",
+        "ggdUAa34BWZ_childItem_0": "<p><span style=\"font-size:16px;\">Donner vie à votre image</span></p>",
+        "gggDUK_Vlfq_placeholder": "Votre nom complet",
+        "ggi42N2RZmz_childItem_0": "<p><span style=\"font-size:12px;\">Boostez votre visibilité</span></p>",
+        "ggiKfPLuTsj_text": "<span style=\"font-size:32px;\"><strong>Personnaliser vos textiles </strong></span><span style=\"color:#F3FFB5;font-size:32px;\"><strong><u>à votre image !</u></strong></span>",
+        "ggj6Ew9Hgvr_placeholder": "Numéro de téléphone",
+        "ggjdED8TsDt_childItem_0": "<p><span style=\"font-size:12px;\">Donner vie à votre image</span></p>",
+        "ggppzrAw2Y8_label": "Faire ma demande de devis",
+        "gguWsUets1R_childItem_0": "<p><span style=\"font-size:12px;\">Savoir-faire Français</span></p>",
+        "ggxKTbhyTpQ_childItem_0": "<p><span style=\"font-size:12px;\">Savoir-faire Français</span></p>",
+        "ggzG_uhCuOa_childItem_0": "<p><span style=\"font-size:16px;\">Savoir-faire Français</span></p>"
+      },
+      "type": "gp-section-550392295610909858"
+    }
+  },
+  "order": [
+    "gp_section_550392011706860706",
+    "gp_section_550392295610909858"
+  ],
+  "layout": "theme.gempages.blank"
+}
