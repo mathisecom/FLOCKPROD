@@ -210,24 +210,70 @@
         "image_CPddyX": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/gempages_550391632155902800-091b36f0-c72a-4075-aa4d-9e87e25671e7.webp",
             "url": ""
           }
         },
         "image_UkPMXz": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_50.jpg",
             "url": ""
           }
         },
         "image_iwetx7": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_47.jpg",
             "url": ""
           }
         },
         "image_xJPpmV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_48.jpg",
+            "url": ""
+          }
+        },
+        "image_cBwUKB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_49.jpg",
+            "url": ""
+          }
+        },
+        "image_C3mDdf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_53.jpg",
+            "url": ""
+          }
+        },
+        "image_KfdYQg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_550391632155902800-77443589-533e-4a01-993e-47a2015f29e4.webp",
+            "url": ""
+          }
+        },
+        "image_JQBjnb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_52.jpg",
+            "url": ""
+          }
+        },
+        "image_Lk3WR6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_550391632155902800-e62517d4-1d21-47fe-89aa-0c2e27dd413b.webp",
+            "url": ""
+          }
+        },
+        "image_hyDFRK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_550391632155902800-df336868-ba29-4f27-b8c2-33bc2e0ac335.webp",
             "url": ""
           }
         }
@@ -236,7 +282,13 @@
         "image_CPddyX",
         "image_UkPMXz",
         "image_iwetx7",
-        "image_xJPpmV"
+        "image_xJPpmV",
+        "image_cBwUKB",
+        "image_C3mDdf",
+        "image_KfdYQg",
+        "image_JQBjnb",
+        "image_Lk3WR6",
+        "image_hyDFRK"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
@@ -255,7 +307,7 @@
         "scrolling_gap": 70,
         "scrolling_gap_mobile": 30,
         "card_width_desktop": 160,
-        "card_width_mobile": 170,
+        "card_width_mobile": 150,
         "heading_color": "#121212",
         "layout_bg_color": "#FFFFFF",
         "layout_border_color": "#121212",
