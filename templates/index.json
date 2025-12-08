@@ -731,12 +731,24 @@
             "title": "Je recommande.",
             "content": "<p>J’ai contacté FlockProd pour la pose d’un adhésif et 2 T-shirt personnalisé. Travail rapide et soigné, je recommande.</p>"
           }
+        },
+        "testimonial_PmKRNU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Thierry",
+            "title": "Du travail de qualité.",
+            "content": "<p>J'ai fait appel à Flockprod pour la conception et l'impression de flyers, et la création, fourniture et pose d'un micro perforé sur la porte de mon cabinet. Les 2 prestations ont été réalisées avec professionnalisme pour un rendu de qualité.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_JFPcEt",
         "testimonial_7kiq8y",
-        "testimonial_HnEqcR"
+        "testimonial_HnEqcR",
+        "testimonial_PmKRNU"
       ],
       "name": "Testimonials",
       "settings": {
