@@ -23,6 +23,7 @@
         "image_CB8dkg": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_57.jpg",
             "bubble_text": "Sweats",
             "bubble_link": "shopify://collections/sweats"
           }
