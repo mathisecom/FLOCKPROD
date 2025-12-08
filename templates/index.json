@@ -36,8 +36,16 @@
             "bubble_link": "shopify://collections/polo"
           }
         },
+        "image_XTqrqP": {
+          "type": "Image",
+          "settings": {
+            "bubble_text": "Travail",
+            "bubble_link": ""
+          }
+        },
         "image_YWPHek": {
           "type": "Image",
+          "disabled": true,
           "settings": {
             "bubble_img": "shopify://shop_images/CREA_1080X1080_59.jpg",
             "bubble_text": "Manteaux",
@@ -55,12 +63,14 @@
         "image_Y3bRdY": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_61.jpg",
             "bubble_text": "Chemise",
             "bubble_link": ""
           }
         },
         "image_cacHJH": {
           "type": "Image",
+          "disabled": true,
           "settings": {
             "bubble_text": "Doudoune",
             "bubble_link": ""
@@ -69,14 +79,8 @@
         "image_qVLAth": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_62.jpg",
             "bubble_text": "SoftShell",
-            "bubble_link": ""
-          }
-        },
-        "image_XTqrqP": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "Travail",
             "bubble_link": ""
           }
         },
@@ -99,12 +103,12 @@
         "image_Kp6CjM",
         "image_CB8dkg",
         "image_nWPtP9",
+        "image_XTqrqP",
         "image_YWPHek",
         "image_pyMyrY",
         "image_Y3bRdY",
         "image_cacHJH",
         "image_qVLAth",
-        "image_XTqrqP",
         "image_TJTzGa",
         "image_BdbpWk"
       ],
