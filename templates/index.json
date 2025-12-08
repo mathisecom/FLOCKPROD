@@ -639,7 +639,7 @@
         "scrolling_gap": 70,
         "scrolling_gap_mobile": 30,
         "card_width_desktop": 190,
-        "card_width_mobile": 130,
+        "card_width_mobile": 160,
         "heading_color": "#121212",
         "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
