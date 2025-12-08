@@ -753,6 +753,17 @@
             "title": "Je recommande sans hésiter",
             "content": "<p>J'ai solliciter plusieurs fois l'entreprise et c'est toujours au top ! Du travail pro et surtout à l'écoute de mes demandes..<br/>Le rendu des flocages sont propres et durable dans le temps. Je recommande sans hésiter.</p>"
           }
+        },
+        "testimonial_zp63XU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Emin Bozbiyik",
+            "title": "Qualité au top, Délai de réalisation rapide",
+            "content": "<p>J’ai fais faire un t-shirt de foot personnalisé, qualité au top, délai de réalisation rapide et gérant au top, je conseille fortement.</p>"
+          }
         }
       },
       "block_order": [
@@ -760,7 +771,8 @@
         "testimonial_7kiq8y",
         "testimonial_HnEqcR",
         "testimonial_PmKRNU",
-        "testimonial_CWKMqt"
+        "testimonial_CWKMqt",
+        "testimonial_zp63XU"
       ],
       "name": "Testimonials",
       "settings": {
