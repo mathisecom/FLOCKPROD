@@ -328,6 +328,7 @@
         "item_QWkAEK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_48.png",
             "column_size": "4",
             "title": "Marquage Adhésif",
             "heading_tag": "h5",
