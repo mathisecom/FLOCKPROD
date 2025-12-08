@@ -94,6 +94,7 @@
         "image_BdbpWk": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/n02929A.webp",
             "bubble_text": "Bagagerie",
             "bubble_link": ""
           }
