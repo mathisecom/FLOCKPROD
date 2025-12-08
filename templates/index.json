@@ -341,6 +341,7 @@
         "item_kcdR7x": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_49.png",
             "column_size": "4",
             "title": "Publicité Imprimé",
             "heading_tag": "h5",
