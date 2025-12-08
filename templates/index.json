@@ -72,6 +72,7 @@
         "image_cacHJH": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_59.jpg",
             "bubble_text": "Doudoune",
             "bubble_link": ""
           }
@@ -124,8 +125,8 @@
         "icon_space_mobile": 4,
         "icon_border_thickness": 1,
         "icon_square": false,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
+        "text_custom": true,
+        "text_font": "archivo_n6",
         "text_size": 14,
         "text_size_mobile": 12,
         "text_height": 110,
