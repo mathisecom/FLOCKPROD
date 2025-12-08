@@ -9,140 +9,6 @@
  */
 {
   "sections": {
-    "ss_circlemenu_KHFxNp": {
-      "type": "ss-circlemenu",
-      "blocks": {
-        "image_Kp6CjM": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_56.jpg",
-            "bubble_text": "T-Shirts",
-            "bubble_link": "shopify://collections/t-shirts"
-          }
-        },
-        "image_CB8dkg": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_57.jpg",
-            "bubble_text": "Sweats",
-            "bubble_link": "shopify://collections/sweats"
-          }
-        },
-        "image_nWPtP9": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_58.jpg",
-            "bubble_text": "Polo",
-            "bubble_link": "shopify://collections/polo"
-          }
-        },
-        "image_XTqrqP": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_63.jpg",
-            "bubble_text": "Travail",
-            "bubble_link": ""
-          }
-        },
-        "image_pyMyrY": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_60.jpg",
-            "bubble_text": "Tablier",
-            "bubble_link": ""
-          }
-        },
-        "image_Y3bRdY": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_61.jpg",
-            "bubble_text": "Chemise",
-            "bubble_link": ""
-          }
-        },
-        "image_cacHJH": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_59.jpg",
-            "bubble_text": "Doudoune",
-            "bubble_link": ""
-          }
-        },
-        "image_qVLAth": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_62.jpg",
-            "bubble_text": "SoftShell",
-            "bubble_link": ""
-          }
-        },
-        "image_TJTzGa": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_64.jpg",
-            "bubble_text": "Sport",
-            "bubble_link": ""
-          }
-        },
-        "image_BdbpWk": {
-          "type": "Image",
-          "settings": {
-            "bubble_img": "shopify://shop_images/n02929A.webp",
-            "bubble_text": "Bagagerie",
-            "bubble_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Kp6CjM",
-        "image_CB8dkg",
-        "image_nWPtP9",
-        "image_XTqrqP",
-        "image_pyMyrY",
-        "image_Y3bRdY",
-        "image_cacHJH",
-        "image_qVLAth",
-        "image_TJTzGa",
-        "image_BdbpWk"
-      ],
-      "name": "SS - Circle Menu",
-      "settings": {
-        "slider_width": 100,
-        "slider_gap": 50,
-        "slider_gap_mobile": 18,
-        "icon_size": 100,
-        "icon_size_mobile": 112,
-        "icon_space": 4,
-        "icon_space_mobile": 4,
-        "icon_border_thickness": 1,
-        "icon_square": false,
-        "text_custom": true,
-        "text_font": "archivo_n6",
-        "text_size": 14,
-        "text_size_mobile": 12,
-        "text_height": 110,
-        "text_mt": 12,
-        "icon_border_color": "#000000",
-        "icon_border_gradient": "",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "border_gradient": "",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 4,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 150,
-        "border_thickness": 0,
-        "lazy": true,
-        "hide_mobile": false,
-        "hide_desktop": false
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -283,8 +149,143 @@
         "lazy": true
       }
     },
+    "ss_circlemenu_KHFxNp": {
+      "type": "ss-circlemenu",
+      "blocks": {
+        "image_Kp6CjM": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_56.jpg",
+            "bubble_text": "T-Shirts",
+            "bubble_link": "shopify://collections/t-shirts"
+          }
+        },
+        "image_CB8dkg": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_57.jpg",
+            "bubble_text": "Sweats",
+            "bubble_link": "shopify://collections/sweats"
+          }
+        },
+        "image_nWPtP9": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_58.jpg",
+            "bubble_text": "Polo",
+            "bubble_link": "shopify://collections/polo"
+          }
+        },
+        "image_XTqrqP": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_63.jpg",
+            "bubble_text": "Travail",
+            "bubble_link": ""
+          }
+        },
+        "image_pyMyrY": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_60.jpg",
+            "bubble_text": "Tablier",
+            "bubble_link": ""
+          }
+        },
+        "image_Y3bRdY": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_61.jpg",
+            "bubble_text": "Chemise",
+            "bubble_link": ""
+          }
+        },
+        "image_cacHJH": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_59.jpg",
+            "bubble_text": "Doudoune",
+            "bubble_link": ""
+          }
+        },
+        "image_qVLAth": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_62.jpg",
+            "bubble_text": "SoftShell",
+            "bubble_link": ""
+          }
+        },
+        "image_TJTzGa": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_64.jpg",
+            "bubble_text": "Sport",
+            "bubble_link": ""
+          }
+        },
+        "image_BdbpWk": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify://shop_images/n02929A.webp",
+            "bubble_text": "Bagagerie",
+            "bubble_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Kp6CjM",
+        "image_CB8dkg",
+        "image_nWPtP9",
+        "image_XTqrqP",
+        "image_pyMyrY",
+        "image_Y3bRdY",
+        "image_cacHJH",
+        "image_qVLAth",
+        "image_TJTzGa",
+        "image_BdbpWk"
+      ],
+      "name": "SS - Circle Menu",
+      "settings": {
+        "slider_width": 100,
+        "slider_gap": 50,
+        "slider_gap_mobile": 18,
+        "icon_size": 100,
+        "icon_size_mobile": 130,
+        "icon_space": 4,
+        "icon_space_mobile": 4,
+        "icon_border_thickness": 1,
+        "icon_square": false,
+        "text_custom": true,
+        "text_font": "archivo_n6",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 110,
+        "text_mt": 12,
+        "icon_border_color": "#000000",
+        "icon_border_gradient": "",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "border_gradient": "",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 4,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 150,
+        "border_thickness": 0,
+        "lazy": true,
+        "hide_mobile": false,
+        "hide_desktop": false
+      }
+    },
     "featured_collection_r4PQiT": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "collection": "frontpage",
@@ -863,9 +864,9 @@
     }
   },
   "order": [
-    "ss_circlemenu_KHFxNp",
     "slideshow",
     "ss_scrolling_logo_cloud_5_PkDnVj",
+    "ss_circlemenu_KHFxNp",
     "featured_collection_r4PQiT",
     "multi_column_CeMNcp",
     "scrolling_text_cgkzi6",
