@@ -764,6 +764,17 @@
             "title": "Qualité au top, Délai de réalisation rapide",
             "content": "<p>J’ai fais faire un t-shirt de foot personnalisé, qualité au top, délai de réalisation rapide et gérant au top, je conseille fortement.</p>"
           }
+        },
+        "testimonial_fJp9Aj": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Malou",
+            "title": "Je recommande fortement !",
+            "content": "<p>Le gèrent est à l écoute et très professionnel. Son travail est de très bonne qualité. Je recommande fortement !</p>"
+          }
         }
       },
       "block_order": [
@@ -772,7 +783,8 @@
         "testimonial_HnEqcR",
         "testimonial_PmKRNU",
         "testimonial_CWKMqt",
-        "testimonial_zp63XU"
+        "testimonial_zp63XU",
+        "testimonial_fJp9Aj"
       ],
       "name": "Testimonials",
       "settings": {
