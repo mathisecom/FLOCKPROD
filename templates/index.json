@@ -31,6 +31,7 @@
         "image_nWPtP9": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_58.jpg",
             "bubble_text": "Polo",
             "bubble_link": "shopify://collections/polo"
           }
@@ -38,6 +39,7 @@
         "image_YWPHek": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_59.jpg",
             "bubble_text": "Manteaux",
             "bubble_link": ""
           }
