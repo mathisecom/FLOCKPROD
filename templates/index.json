@@ -88,6 +88,7 @@
         "image_TJTzGa": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_64.jpg",
             "bubble_text": "Sport",
             "bubble_link": ""
           }
