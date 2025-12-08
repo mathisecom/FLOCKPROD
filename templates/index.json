@@ -662,6 +662,100 @@
         "lazy": true
       }
     },
+    "rich_text_q9fC6C": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_dneRXB": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "CE QU’ILS DISENT DE NOUS"
+          }
+        },
+        "heading_YDTztr": {
+          "type": "heading",
+          "settings": {
+            "text": "CE QU’ILS DISENT DE NOUS",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dneRXB",
+        "heading_YDTztr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_GpHcLL": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_JFPcEt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_7kiq8y": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_HnEqcR": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mathis UPBRAND",
+            "title": "Je recommande.",
+            "content": "<p>J’ai contacté FlockProd pour la pose d’un adhésif et 2 T-shirt personnalisé. Travail rapide et soigné, je recommande.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_JFPcEt",
+        "testimonial_7kiq8y",
+        "testimonial_HnEqcR"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -727,6 +821,8 @@
     "media_with_text_rU3UjL",
     "rich_text_CABNek",
     "ss_scrolling_logo_cloud_5_Dr3zYQ",
+    "rich_text_q9fC6C",
+    "testimonials_GpHcLL",
     "faq"
   ]
 }
