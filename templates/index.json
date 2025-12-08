@@ -315,6 +315,7 @@
         "item_aM8q4g": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_47.png",
             "column_size": "4",
             "title": "Impression Textiles",
             "heading_tag": "h5",
