@@ -742,13 +742,25 @@
             "title": "Du travail de qualité.",
             "content": "<p>J'ai fait appel à Flockprod pour la conception et l'impression de flyers, et la création, fourniture et pose d'un micro perforé sur la porte de mon cabinet. Les 2 prestations ont été réalisées avec professionnalisme pour un rendu de qualité.</p>"
           }
+        },
+        "testimonial_CWKMqt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mutlu Gokhan",
+            "title": "Je recommande sans hésiter",
+            "content": "<p>J'ai solliciter plusieurs fois l'entreprise et c'est toujours au top ! Du travail pro et surtout à l'écoute de mes demandes..<br/>Le rendu des flocages sont propres et durable dans le temps. Je recommande sans hésiter.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_JFPcEt",
         "testimonial_7kiq8y",
         "testimonial_HnEqcR",
-        "testimonial_PmKRNU"
+        "testimonial_PmKRNU",
+        "testimonial_CWKMqt"
       ],
       "name": "Testimonials",
       "settings": {
