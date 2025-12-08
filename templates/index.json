@@ -47,6 +47,7 @@
         "image_pyMyrY": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_60.jpg",
             "bubble_text": "Tablier",
             "bubble_link": ""
           }
