@@ -15,6 +15,7 @@
         "image_Kp6CjM": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_56.jpg",
             "bubble_text": "T-Shirts",
             "bubble_link": "shopify://collections/t-shirts"
           }
