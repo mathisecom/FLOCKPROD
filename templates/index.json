@@ -39,6 +39,7 @@
         "image_XTqrqP": {
           "type": "Image",
           "settings": {
+            "bubble_img": "shopify://shop_images/CREA_1080X1080_63.jpg",
             "bubble_text": "Travail",
             "bubble_link": ""
           }
@@ -70,7 +71,6 @@
         },
         "image_cacHJH": {
           "type": "Image",
-          "disabled": true,
           "settings": {
             "bubble_text": "Doudoune",
             "bubble_link": ""
@@ -119,7 +119,7 @@
         "slider_gap": 50,
         "slider_gap_mobile": 18,
         "icon_size": 100,
-        "icon_size_mobile": 100,
+        "icon_size_mobile": 112,
         "icon_space": 4,
         "icon_space_mobile": 4,
         "icon_border_thickness": 1,
