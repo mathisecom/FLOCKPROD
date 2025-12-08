@@ -44,15 +44,6 @@
             "bubble_link": ""
           }
         },
-        "image_YWPHek": {
-          "type": "Image",
-          "disabled": true,
-          "settings": {
-            "bubble_img": "shopify://shop_images/CREA_1080X1080_59.jpg",
-            "bubble_text": "Manteaux",
-            "bubble_link": ""
-          }
-        },
         "image_pyMyrY": {
           "type": "Image",
           "settings": {
@@ -107,7 +98,6 @@
         "image_CB8dkg",
         "image_nWPtP9",
         "image_XTqrqP",
-        "image_YWPHek",
         "image_pyMyrY",
         "image_Y3bRdY",
         "image_cacHJH",
